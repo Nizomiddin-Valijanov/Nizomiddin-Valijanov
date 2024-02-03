@@ -69,6 +69,7 @@ Here are some of the technologies and languages I'm proficient with:
 - CSS/SCSS
 - JavaScript
 - React
+- Redux
 - React Native
 - Python
 
@@ -76,7 +77,7 @@ Here are some of the technologies and languages I'm proficient with:
 
 Feel free to reach out to me:
 
-- LinkedIn: [Nizomiddin Valijanov](https://www.linkedin.com/in/nizomiddin-valijanov/)
-- Email: your.email@example.com
+- Telegram: [Nizomiddin Valijanov](https://www.linkedin.com/in/nizomiddin-valijanov-5b80032aa)
+- Email: nizomiddinvalijanov71@gmail.com
 
 Explore my projects, and don't hesitate to connect or inquire about collaboration opportunities!
