@@ -57,7 +57,7 @@ This repository and its contents are open-source under the [Your License] - see 
 
 # Nizomiddin Valijanov's GitHub
 
-I am a Front-End developer based in Namangan, Uzbekistan I am good at working on UI and UX design, and Redux. Technologies I use Html, Css, Sass, Scss, JavaScript and React. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences.
+I am a Front-End developer based in Namangan, Uzbekistan. I'm passionate about web development and mobile app development. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences.
 
 ## Skills
 
