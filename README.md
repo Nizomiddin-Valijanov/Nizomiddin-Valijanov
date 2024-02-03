@@ -57,38 +57,7 @@ This repository and its contents are open-source under the [Your License] - see 
 
 # Nizomiddin Valijanov's GitHub
 
-Hello, I'm Nizomiddin Valijanov! Welcome to my GitHub repository, where I showcase my passion for web and mobile development. Below, you'll find details about my projects and the technologies I work with.
-
-## Projects
-
-### 1. [Project One - Replace with Actual Name]
-
-A brief description of the project, its purpose, and the technologies used.
-
-#### Technologies:
-
-- HTML
-- CSS/SCSS
-- JavaScript
-- [Other relevant technologies]
-
-### 2. [Project Two - Replace with Actual Name]
-
-A brief description of the project, its purpose, and the technologies used.
-
-#### Technologies:
-
-- React
-- [Other relevant technologies]
-
-### 3. [Project Three - Replace with Actual Name]
-
-A brief description of the project, its purpose, and the technologies used.
-
-#### Technologies:
-
-- React Native
-- [Other relevant technologies]
+I am a Front-End developer based in Namangan, Uzbekistan I am good at working on UI and UX design, and Redux. Technologies I use Html, Css, Sass, Scss, JavaScript and React. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences.
 
 ## Skills
 
