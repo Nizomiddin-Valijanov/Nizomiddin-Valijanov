@@ -74,20 +74,10 @@ Here are some of the technologies and languages I'm proficient with:
 <img align="left" alt="BOOTSTRAP" width="30px" style="padding-right:10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
    />
-<img align="left" alt="TAILWINDCSS" width="30px" style="padding-right:10px;"
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
-   />
+
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
    />
-
-<!-- <img align="left" alt="JQUERY" width="30px" style="padding-right:10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"
-   /> -->
-
-<!-- <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-   /> -->
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
@@ -95,12 +85,6 @@ Here are some of the technologies and languages I'm proficient with:
 <img align="left" alt="REDUX" width="30px" style="padding-right:10px;"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
    />
-
-<!-- <img align="left" alt="ELECTRON" width="30px" style="padding-right:10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"
-   /> -->
-
-## Contact
 
 Feel free to reach out to me:
 
