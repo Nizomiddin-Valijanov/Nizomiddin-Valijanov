@@ -62,7 +62,8 @@ I am a Front-End developer based in Namangan, Uzbekistan. I'm passionate about w
 ![Screenshot](https://github.com/Nizomiddin-Valijanov/Nizomiddin-Valijanov/blob/main/photo_2024-02-03_22-45-07.jpg)
 
 <br />
-## Skills
+
+# Skills
 
 Here are some of the technologies and languages I'm proficient with:
 
