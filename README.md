@@ -21,6 +21,10 @@
    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"
    />
 
+<img align="left" alt="Material UI" width="40px" style="padding-right:5px;"
+   src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg"
+   />
+
 <img align="left" alt="JavaScript" width="40px" style="padding-right:5px;"
    src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"
    />
