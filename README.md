@@ -31,6 +31,30 @@
 
 <br />
 <br />
+
+## Tools
+
+<img align="left" alt="Visual Studio" width="40px" style="padding-right:5px;"
+   src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"
+   />
+
+<img align="left" alt="Github" width="40px" style="padding-right:5px;"
+   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"
+   />
+
+<img align="left" alt="Figma" width="40px" style="padding-right:5px;"
+   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"
+   />
+
+<img align="left" alt="Linux" width="40px" style="padding-right:5px;"
+   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg"
+   />
+
+<img align="left" alt="Android Studio" width="40px" style="padding-right:5px;"
+   src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg"
+   />
+
+<br />
 <br />
 
 ### Feel free to reach out to me:
