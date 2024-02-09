@@ -9,7 +9,7 @@
 Here are some of the technologies and languages I'm proficient with:
 
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;"
-   src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"
+   src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"
    />
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;"
    src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"
