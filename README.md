@@ -6,34 +6,37 @@
 
 ## Skills
 
-Here are some of the technologies and languages I'm proficient with:
+#### Here are some of the technologies and languages I'm proficient with:
 
-<img align="left" alt="HTML" width="40px" style="padding-right:10px;"
+<img align="left" alt="HTML" width="40px" style="padding-right:5px;"
    src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"
    />
-<img align="left" alt="CSS" width="40px" style="padding-right:10px;"
+<img align="left" alt="CSS" width="40px" style="padding-right:5px;"
    src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"
    />
-<img align="left" alt="BOOTSTRAP" width="40px" style="padding-right:10px;"
+<img align="left" alt="BOOTSTRAP" width="40px" style="padding-right:5px;"
    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"
    />
 
-<img align="left" alt="JavaScript" width="40px" style="padding-right:10px;"
+<img align="left" alt="JavaScript" width="40px" style="padding-right:5px;"
    src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"
    />
 
-<img align="left" alt="React" width="40px" style="padding-right:10px;"
+<img align="left" alt="React" width="40px" style="padding-right:5px;"
    src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"
    />
-<img align="left" alt="REDUX" width="40px" style="padding-right:10px;"
+<img align="left" alt="REDUX" width="40px" style="padding-right:5px;"
    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg"
    />
 
 <br />
 <br />
-Feel free to reach out to me:
+<br />
 
-- Telegram: [Nizomiddin Valijanov](https://www.linkedin.com/in/nizomiddin-valijanov-5b80032aa)
+### Feel free to reach out to me:
+
+- Linkedin: [Nizomiddin Valijanov](https://www.linkedin.com/in/nizomiddin-valijanov-5b80032aa)
+- Telegram: [Nizomiddin Valijanov](https://t.me/NizomiWebDev)
 - Email: nizomiddinvalijanov71@gmail.com
 
 Explore my projects, and don't hesitate to connect or inquire about collaboration opportunities!
