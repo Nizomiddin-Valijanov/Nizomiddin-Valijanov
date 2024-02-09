@@ -14,6 +14,9 @@
 <img align="left" alt="CSS" width="40px" style="padding-right:5px;"
    src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"
    />
+<img align="left" alt="Sass" width="40px" style="padding-right:5px;"
+   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg"
+   />
 <img align="left" alt="BOOTSTRAP" width="40px" style="padding-right:5px;"
    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"
    />
