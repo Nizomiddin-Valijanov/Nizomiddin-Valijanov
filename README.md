@@ -35,6 +35,15 @@
 <img align="left" alt="REDUX" width="40px" style="padding-right:5px;"
    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg"
    />
+<img align="left" alt="Golang" width="40px" style="padding-right:5px;"
+   src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg"
+   />
+<img align="left" alt="Gin-gonic" width="40px" style="padding-right:5px;"
+   src="https://github.com/gin-gonic/logo/blob/master/color.svg"
+   />
+<img align="left" alt="MongoDB" width="40px" style="padding-right:5px;"
+   src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"
+   />
 
 <br />
 <br />
@@ -60,6 +69,18 @@
 
 <img align="left" alt="Android Studio" width="40px" style="padding-right:5px;"
    src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg"
+   />
+<img align="left" alt="Postman" width="40px" style="padding-right:5px;"
+   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"
+   />
+<img align="left" alt="Ubuntu" width="40px" style="padding-right:5px;"
+   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg"
+   />
+<img align="left" alt="Npm" width="40px" style="padding-right:5px;"
+   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg"
+   />
+<img align="left" alt="Npm" width="40px" style="padding-right:5px;"
+   src=" https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Light.svg "
    />
 
 <br />
