@@ -38,7 +38,7 @@
 <img align="left" alt="Golang" width="40px" style="padding-right:5px;"
    src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg"
    />
-<img align="left" alt="Gin-gonic" width="40px" style="padding-right:5px;"
+<img align="left" alt="Gin-gonic" width="40px" height="40px" style="padding-right:5px;"
    src="https://github.com/gin-gonic/logo/blob/master/color.svg"
    />
 <img align="left" alt="MongoDB" width="40px" style="padding-right:5px;"
@@ -79,8 +79,8 @@
 <img align="left" alt="Npm" width="40px" style="padding-right:5px;"
    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg"
    />
-<img align="left" alt="Npm" width="40px" style="padding-right:5px;"
-   src=" https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Light.svg "
+<img align="left" alt="Notion" width="40px" style="padding-right:5px;"
+   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Light.svg"
    />
 
 <br />
