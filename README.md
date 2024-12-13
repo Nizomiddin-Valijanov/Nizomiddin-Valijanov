@@ -15,10 +15,9 @@ Here are some of the technologies and languages I work with:
 <p>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="40px" style="margin-right: 10px;"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" alt="Styled Components" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="TailwindCSS" width="40px" style="margin-right: 10px;"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="Sass" width="40px" style="margin-right: 10px;"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" alt="Styled Components" width="40px" style="margin-right: 10px;"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="40px" style="margin-right: 10px;"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" alt="Material UI" width="40px" style="margin-right: 10px;"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="40px" style="margin-right: 10px;"/>
