@@ -15,6 +15,8 @@ Here are some of the technologies and languages I work with:
 <p>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="40px" style="margin-right: 10px;"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" alt="Styled Components" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="TailwindCSS" width="40px" style="margin-right: 10px;"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="Sass" width="40px" style="margin-right: 10px;"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="40px" style="margin-right: 10px;"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="40px" style="margin-right: 10px;"/>
@@ -22,8 +24,8 @@ Here are some of the technologies and languages I work with:
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="40px" style="margin-right: 10px;"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="40px" style="margin-right: 10px;"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" alt="Redux" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="Golang" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/gin-gonic/logo/blob/master/color.svg" alt="Gin-gonic" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="express" width="40px" style="margin-right: 10px;"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="40px" style="margin-right: 10px;"/>
 </p>
 
@@ -36,11 +38,10 @@ Here are some of the technologies and languages I work with:
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="40px" style="margin-right: 10px;"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" width="40px" style="margin-right: 10px;"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="Linux" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="Android Studio" width="40px" style="margin-right: 10px;"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="40px" style="margin-right: 10px;"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" alt="Ubuntu" width="40px" style="margin-right: 10px;"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="Npm" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Light.svg" alt="Notion" width="40px" style="margin-right: 10px;"/>
+
 </p>
 
 ---
