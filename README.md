@@ -1,98 +1,66 @@
 # Nizomiddin Valijanov's GitHub
 
-### I am a Front-End developer based in Namangan, Uzbekistan. I'm passionate about web development and mobile app development. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences.
+## 👋 About Me
 
-![Screenshot](https://github.com/Nizomiddin-Valijanov/Nizomiddin-Valijanov/blob/main/photo_2024-02-03_22-45-07.jpg)
+Hello! I'm **Nizomiddin Valijanov**, a passionate Front-End Developer based in Namangan, Uzbekistan. I specialize in creating responsive and modern user-friendly web experiences from scratch. My journey in web and mobile app development is driven by a love for clean code, elegant designs, and seamless user interfaces.
 
-## Skills
+![Profile Picture](https://github.com/Nizomiddin-Valijanov/Nizomiddin-Valijanov/blob/main/photo_2024-02-03_22-45-07.jpg)
 
-#### Here are some of the technologies and languages I'm proficient with:
+---
 
-<img align="left" alt="HTML" width="40px" style="padding-right:5px;"
-   src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"
-   />
-<img align="left" alt="CSS" width="40px" style="padding-right:5px;"
-   src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"
-   />
-<img align="left" alt="Sass" width="40px" style="padding-right:5px;"
-   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg"
-   />
-<img align="left" alt="Tailwindcss" width="40px" style="padding-right:5px;"
-   src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"
-   />
-<img align="left" alt="BOOTSTRAP" width="40px" style="padding-right:5px;"
-   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"
-   />
+## 🚀 Skills
 
-<img align="left" alt="Material UI" width="40px" style="padding-right:5px;"
-   src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg"
-   />
+Here are some of the technologies and languages I work with:
 
-<img align="left" alt="JavaScript" width="40px" style="padding-right:5px;"
-   src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"
-   />
+<p>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="Sass" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" alt="Material UI" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" alt="Redux" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="Golang" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/gin-gonic/logo/blob/master/color.svg" alt="Gin-gonic" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="40px" style="margin-right: 10px;"/>
+</p>
 
-<img align="left" alt="React" width="40px" style="padding-right:5px;"
-   src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"
-   />
-<img align="left" alt="REDUX" width="40px" style="padding-right:5px;"
-   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg"
-   />
-<img align="left" alt="Golang" width="40px" style="padding-right:5px;"
-   src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg"
-   />
-<img align="left" alt="Gin-gonic" width="40px" height="40px" style="padding-right:5px;"
-   src="https://github.com/gin-gonic/logo/blob/master/color.svg"
-   />
-<img align="left" alt="MongoDB" width="40px" style="padding-right:5px;"
-   src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"
-   />
+---
 
-<br />
-<br />
-<br />
+## 🛠️ Tools
 
-## Tools
+<p>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="Linux" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="Android Studio" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" alt="Ubuntu" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="Npm" width="40px" style="margin-right: 10px;"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Light.svg" alt="Notion" width="40px" style="margin-right: 10px;"/>
+</p>
 
-<img align="left" alt="Visual Studio" width="40px" style="padding-right:5px;"
-   src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"
-   />
+---
 
-<img align="left" alt="Github" width="40px" style="padding-right:5px;"
-   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"
-   />
+## 📬 Contact Me
 
-<img align="left" alt="Figma" width="40px" style="padding-right:5px;"
-   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"
-   />
+- **LinkedIn**: [Nizomiddin Valijanov](https://www.linkedin.com/in/nizomiddin-valijanov-5b80032aa)
+- **Telegram**: [@NizomiWebDev](https://t.me/NizomiWebDev)
+- **Email**: nizomiddinvalijanov71@gmail.com
 
-<img align="left" alt="Linux" width="40px" style="padding-right:5px;"
-   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg"
-   />
+Feel free to explore my projects and reach out for collaborations or inquiries!
 
-<img align="left" alt="Android Studio" width="40px" style="padding-right:5px;"
-   src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg"
-   />
-<img align="left" alt="Postman" width="40px" style="padding-right:5px;"
-   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"
-   />
-<img align="left" alt="Ubuntu" width="40px" style="padding-right:5px;"
-   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg"
-   />
-<img align="left" alt="Npm" width="40px" style="padding-right:5px;"
-   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg"
-   />
-<img align="left" alt="Notion" width="40px" style="padding-right:5px;"
-   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Light.svg"
-   />
+---
 
-<br />
-<br />
+## 📈 GitHub Stats
 
-### Feel free to reach out to me:
+![Nizomiddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nizomiddin-Valijanov&show_icons=true&theme=radical)
 
-- Linkedin: [Nizomiddin Valijanov](https://www.linkedin.com/in/nizomiddin-valijanov-5b80032aa)
-- Telegram: [Nizomiddin Valijanov](https://t.me/NizomiWebDev)
-- Email: nizomiddinvalijanov71@gmail.com
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nizomiddin-Valijanov&layout=compact&theme=radical)
 
-Explore my projects, and don't hesitate to connect or inquire about collaboration opportunities!
+---
+
+Thanks for stopping by! 😊
