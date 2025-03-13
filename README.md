@@ -38,11 +38,11 @@ Hey there! I'm **Nizomiddin Valijanov**, a passionate **Front-End & Cross-Platfo
 ## 🚀 **Projects & Contributions**
 
 ### 📌 **Highlighted Projects:**
-- **[KIUT Student's CRM](https://github.com/Nizomiddin-Valijanov/KIUT-CRM)** - Developed and optimized PDF management features, improving search and organization.
-- **[Oson-Test.uz](https://github.com/Nizomiddin-Valijanov/Oson-Test)** - Worked on the admin section, implemented CRUD operations, and handled file processing (ZIP, PDF, Excel).
-- **[Ziyolib.uz](https://github.com/Nizomiddin-Valijanov/Ziyolib)** - Developed an online library where users can read and download books in PDF format.
-- **[Medical CRM](https://github.com/Nizomiddin-Valijanov/Medical-CRM)** - Built an admin panel with authentication, diagrams, maps, and CRUD functionality.
-- **[Stroyopttorg](https://github.com/Nizomiddin-Valijanov/Stroyopttorg)** - Implemented discounts, SEO improvements, and a Cyrillic-to-Latin conversion algorithm.
+- **[KIUT Student's CRM (private)](https://github.com/Nizomiddin-Valijanov/KIUT-CRM)** - Developed and optimized PDF management features, improving search and organization.
+- **[Oson-Test.uz](https://oson-test.uz)** - Worked on the admin section, implemented CRUD operations, and handled file processing (ZIP, PDF, Excel).
+- **[Ziyolib.uz (private)](https://ziyolib.uz)** - Developed an online library where users can read and download books in PDF format.
+- **[Medical CRM (private)](https://github.com/Nizomiddin-Valijanov/Medical-CRM)** - Built an admin panel with authentication, diagrams, maps, and CRUD functionality.
+- **[Stroyopttorg (private)](https://github.com/Nizomiddin-Valijanov/Stroyopttorg)** - Implemented discounts, SEO improvements, and a Cyrillic-to-Latin conversion algorithm.
 
 💡 *Check out my repositories for more!* 👇
 
