@@ -25,12 +25,13 @@ Hey there! I'm **Nizomiddin Valijanov**, a passionate **Front-End & Cross-Platfo
 ### **🌍 Web & Mobile Development**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,bootstrap" height="50px"/>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,expo,electron" height="50px"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,expo,electron" height="50px"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,sqlite" height="50px"/>
 </p>
 
 ### **🛠️ Tools & Technologies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,ubuntu,npm,docker" height="50px"/>
+  <img src="https://skillicons.dev/icons?i=git,github,bash,vscode,figma,postman,linux,ubuntu,windows,npm,pnpm,yarn,docker,vite" height="50px"/>
 </p>
 
 ---
