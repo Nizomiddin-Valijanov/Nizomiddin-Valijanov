@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Nizomiddin-Valijanov/Nizomiddin-Valijanov/blob/main/photo_2024-02-03_22-45-07.jpg" width="100%"/>
+  <img src="https://github.com/Nizomiddin-Valijanov/Nizomiddin-Valijanov/blob/main/photo_2024-02-03_22-45-07.jpg" width="200px"/>
 </p>
 
 ---
@@ -25,13 +25,12 @@ Hey there! I'm **Nizomiddin Valijanov**, a passionate **Front-End & Cross-Platfo
 ### **🌍 Web & Mobile Development**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,bootstrap" height="50px"/>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,expo,electron" height="50px"/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,sqlite" height="50px"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,expo,electron" height="50px"/>
 </p>
 
 ### **🛠️ Tools & Technologies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,bash,vscode,figma,postman,linux,ubuntu,windows,npm,pnpm,yarn,docker,vite" height="50px"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,ubuntu,npm,docker" height="50px"/>
 </p>
 
 ---
@@ -39,8 +38,11 @@ Hey there! I'm **Nizomiddin Valijanov**, a passionate **Front-End & Cross-Platfo
 ## 🚀 **Projects & Contributions**
 
 ### 📌 **Highlighted Projects:**
-- **[MyPortfolio](https://github.com/Nizomiddin-Valijanov/MyPortfolio)** - A beautiful portfolio built with Next.js & Tailwind.
-- **[AwesomeApp](https://github.com/Nizomiddin-Valijanov/AwesomeApp)** - A cross-platform mobile app using Expo & React Native.
+- **[KIUT Student's CRM](https://github.com/Nizomiddin-Valijanov/KIUT-CRM)** - Developed and optimized PDF management features, improving search and organization.
+- **[Oson-Test.uz](https://github.com/Nizomiddin-Valijanov/Oson-Test)** - Worked on the admin section, implemented CRUD operations, and handled file processing (ZIP, PDF, Excel).
+- **[Ziyolib.uz](https://github.com/Nizomiddin-Valijanov/Ziyolib)** - Developed an online library where users can read and download books in PDF format.
+- **[Medical CRM](https://github.com/Nizomiddin-Valijanov/Medical-CRM)** - Built an admin panel with authentication, diagrams, maps, and CRUD functionality.
+- **[Stroyopttorg](https://github.com/Nizomiddin-Valijanov/Stroyopttorg)** - Implemented discounts, SEO improvements, and a Cyrillic-to-Latin conversion algorithm.
 
 💡 *Check out my repositories for more!* 👇
 
