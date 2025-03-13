@@ -1,5 +1,3 @@
-# 🚀 Nizomiddin Valijanov
-
 <h1 align="center">Hi there, I'm Nizomiddin! 👋</h1>
 
 <p align="center">
