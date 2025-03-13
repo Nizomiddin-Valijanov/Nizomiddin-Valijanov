@@ -1,66 +1,76 @@
-# Nizomiddin Valijanov's GitHub
+# 🚀 Nizomiddin Valijanov
 
-## 👋 About Me
+<h1 align="center">Hi there, I'm Nizomiddin! 👋</h1>
 
-Hello! I'm **Nizomiddin Valijanov**, a passionate Front-End Developer based in Namangan, Uzbekistan. I specialize in creating responsive and modern user-friendly web experiences from scratch. My journey in web and mobile app development is driven by a love for clean code, elegant designs, and seamless user interfaces.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Front-End+Developer;React+Native+%7C+Expo+%7C+Next.js+Enthusiast;Building+Modern+Web+%26+Mobile+Apps;Always+Learning+New+Tech" />
+</p>
 
-![Profile Picture](https://github.com/Nizomiddin-Valijanov/Nizomiddin-Valijanov/blob/main/photo_2024-02-03_22-45-07.jpg)
-
----
-
-## 🚀 Skills
-
-Here are some of the technologies and languages I work with:
-
-<p>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="Sass" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" alt="Styled Components" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" alt="Material UI" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" alt="Redux" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="express" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="40px" style="margin-right: 10px;"/>
+<p align="center">
+  <img src="https://github.com/Nizomiddin-Valijanov/Nizomiddin-Valijanov/blob/main/photo_2024-02-03_22-45-07.jpg" width="200px"/>
 </p>
 
 ---
 
-## 🛠️ Tools
+## 🌟 **About Me**
 
-<p>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="Linux" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" alt="Ubuntu" width="40px" style="margin-right: 10px;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="Npm" width="40px" style="margin-right: 10px;"/>
+Hey there! I'm **Nizomiddin Valijanov**, a passionate **Front-End & Cross-Platform Developer** from Namangan, Uzbekistan. I specialize in building **modern, responsive, and user-friendly** applications using the latest technologies.
 
+🚀 **I love coding, designing intuitive UIs, and solving complex problems with clean code!**
+
+---
+
+## ⚡ **Tech Stack & Skills**
+
+### **🌍 Web & Mobile Development**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,bootstrap" height="50px"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,expo,electron" height="50px"/>
+</p>
+
+### **🛠️ Tools & Technologies**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,ubuntu,npm,docker" height="50px"/>
 </p>
 
 ---
 
-## 📬 Contact Me
+## 🚀 **Projects & Contributions**
 
-- **LinkedIn**: [Nizomiddin Valijanov](https://www.linkedin.com/in/nizomiddin-valijanov-5b80032aa)
-- **Telegram**: [@NizomiWebDev](https://t.me/NizomiWebDev)
-- **Email**: nizomiddinvalijanov71@gmail.com
+### 📌 **Highlighted Projects:**
+- **[MyPortfolio](https://github.com/Nizomiddin-Valijanov/MyPortfolio)** - A beautiful portfolio built with Next.js & Tailwind.
+- **[AwesomeApp](https://github.com/Nizomiddin-Valijanov/AwesomeApp)** - A cross-platform mobile app using Expo & React Native.
 
-Feel free to explore my projects and reach out for collaborations or inquiries!
-
----
-
-## 📈 GitHub Stats
-
-![Nizomiddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nizomiddin-Valijanov&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nizomiddin-Valijanov&layout=compact&theme=radical)
+💡 *Check out my repositories for more!* 👇
 
 ---
 
-Thanks for stopping by! 😊
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nizomiddin-Valijanov&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nizomiddin-Valijanov&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Nizomiddin-Valijanov&theme=radical&no-bg=true&margin-w=15" width="60%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Nizomiddin-Valijanov&theme=react-dark" width="90%"/>
+</p>
+
+---
+
+## 📬 **Let's Connect!**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nizomiddin-valijanov-5b80032aa">
+    <img src="https://img.shields.io/badge/LinkedIn-Nizomiddin%20Valijanov-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://t.me/NizomiWebDev">
+    <img src="https://img.shields.io/badge/Telegram-@NizomiWebDev-blue?style=for-the-badge&logo=telegram"/>
+  </a>
+  <a href="mailto:nizomiddinvalijanov71@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nizomiddinvalijanov71%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+✨ **Thanks for visiting my profile! Feel free to explore my projects and reach out for collaborations!** 🚀
+
