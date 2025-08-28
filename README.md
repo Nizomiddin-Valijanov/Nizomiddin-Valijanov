@@ -32,7 +32,7 @@ Currently leveling up my **Full-Stack & Backend** skills with **Node.js + Postgr
 </p>
 
 ### **🛠️ Tools & Technologies**
-<p align="center">
+<p align="center" width="100%">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,ubuntu,docker,npm" height="50px"/>
 </p>
 
