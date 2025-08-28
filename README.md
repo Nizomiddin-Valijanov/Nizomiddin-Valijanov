@@ -1,20 +1,25 @@
 <h1 align="center">Hi there, I'm Nizomiddin! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Front-End+Developer;React+Native+%7C+Expo+%7C+Next.js+Enthusiast;Building+Modern+Web+%26+Mobile+Apps;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Front-End+Developer;Full-Stack+Learner;React+Native+%7C+Expo+%7C+Next.js;Building+Modern+Web+%26+Mobile+Apps;Always+Learning+New+Tech" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/Nizomiddin-Valijanov/Nizomiddin-Valijanov/blob/main/photo_2024-02-03_22-45-07.jpg" width="200px"/>
+  <img src="https://github.com/Nizomiddin-Valijanov/Nizomiddin-Valijanov/blob/main/photo_2024-02-03_22-45-07.jpg" width="200px" style="border-radius:50%"/>
 </p>
 
 ---
 
 ## 🌟 **About Me**
 
-Hey there! I'm **Nizomiddin Valijanov**, a passionate **Front-End & Cross-Platform Developer** from Namangan, Uzbekistan. I specialize in building **modern, responsive, and user-friendly** applications using the latest technologies.
+Hey there! I'm **Nizomiddin Valijanov**, a passionate **Front-End & Cross-Platform Developer** from Namangan, Uzbekistan.  
+Currently leveling up my **Full-Stack & Backend** skills with **Node.js + PostgreSQL**, while keeping my focus on **React Native, Expo, Electron.js, and Next.js**.
 
-🚀 **I love coding, designing intuitive UIs, and solving complex problems with clean code!**
+🚀 I enjoy:
+- Writing **clean, scalable code**  
+- Building **modern web & mobile apps**  
+- Designing **intuitive UIs & UX**  
+- Sharing knowledge and **mentoring others**  
 
 ---
 
@@ -22,13 +27,13 @@ Hey there! I'm **Nizomiddin Valijanov**, a passionate **Front-End & Cross-Platfo
 
 ### **🌍 Web & Mobile Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,bootstrap" height="50px"/>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,styledcomponents" height="50px"/>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,expo,electron" height="50px"/>
 </p>
 
 ### **🛠️ Tools & Technologies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,ubuntu,npm,docker" height="50px"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,ubuntu,docker,npm" height="50px"/>
 </p>
 
 ---
@@ -36,13 +41,14 @@ Hey there! I'm **Nizomiddin Valijanov**, a passionate **Front-End & Cross-Platfo
 ## 🚀 **Projects & Contributions**
 
 ### 📌 **Highlighted Projects:**
-- **[KIUT Student's CRM (private)](https://github.com/Nizomiddin-Valijanov/KIUT-CRM)** - Developed and optimized PDF management features, improving search and organization.
-- **[Oson-Test.uz](https://oson-test.uz)** - Worked on the admin section, implemented CRUD operations, and handled file processing (ZIP, PDF, Excel).
-- **[Ziyolib.uz (private)](https://ziyolib.uz)** - Developed an online library where users can read and download books in PDF format.
-- **[Medical CRM (private)](https://github.com/Nizomiddin-Valijanov/Medical-CRM)** - Built an admin panel with authentication, diagrams, maps, and CRUD functionality.
-- **[Stroyopttorg (private)](https://github.com/Nizomiddin-Valijanov/Stroyopttorg)** - Implemented discounts, SEO improvements, and a Cyrillic-to-Latin conversion algorithm.
+- **[Edu Pulse CRM (private)](https://github.com/Nizomiddin-Valijanov/EduPulse)** – Full-featured CRM for education centers (groups, teachers, payroll, attendance).  
+- **[KIUT Student's CRM (private)](https://github.com/Nizomiddin-Valijanov/KIUT-CRM)** – Optimized PDF management with fast search & filters.  
+- **[Oson-Test.uz](https://oson-test.uz)** – Worked on admin panel with CRUD + ZIP/PDF/Excel handling.  
+- **[Ziyolib.uz (private)](https://ziyolib.uz)** – Online library for reading & downloading books in PDF.  
+- **[Medical CRM (private)](https://github.com/Nizomiddin-Valijanov/Medical-CRM)** – Admin dashboard with authentication, diagrams, maps & CRUD.  
+- **[Stroyopttorg (private)](https://github.com/Nizomiddin-Valijanov/Stroyopttorg)** – Implemented SEO, discounts & Cyrillic-to-Latin converter.  
 
-💡 *Check out my repositories for more!* 👇
+💡 *More projects available in my repos!* 👇
 
 ---
 
@@ -52,7 +58,7 @@ Hey there! I'm **Nizomiddin Valijanov**, a passionate **Front-End & Cross-Platfo
   <img src="https://github-readme-stats.vercel.app/api?username=Nizomiddin-Valijanov&show_icons=true&theme=tokyonight" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nizomiddin-Valijanov&theme=tokyonight" width="48%"/>
   <img src="https://github-profile-trophy.vercel.app/?username=Nizomiddin-Valijanov&theme=radical&no-bg=true&margin-w=15" width="60%"/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Nizomiddin-Valijanov&theme=react-dark" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nizomiddin-Valijanov&theme=react-dark" width="90%"/>
 </p>
 
 ---
@@ -73,5 +79,4 @@ Hey there! I'm **Nizomiddin Valijanov**, a passionate **Front-End & Cross-Platfo
 
 ---
 
-✨ **Thanks for visiting my profile! Feel free to explore my projects and reach out for collaborations!** 🚀
-
+✨ **Thanks for visiting my profile! Let's build something amazing together!** 🚀
